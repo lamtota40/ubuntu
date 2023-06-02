@@ -1,3 +1,4 @@
+#!/bin/sh
 
 mkdir /boot/customiso
 #ubuntu server 64bit 
