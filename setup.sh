@@ -1,6 +1,6 @@
 
 #ubuntu server 64bit 
-file="https://releases.ubuntu.com/focal/ubuntu-20.04.5-live-server-amd64.iso"
+file="https://releases.ubuntu.com/focal/ubuntu-20.04.6-live-server-amd64.iso"
 
 wget -O ubuntu.iso $file
 sudo mkdir /boot/customiso
